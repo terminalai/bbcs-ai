@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+node_modules
+
+# Training Data
+/content/seg_pred/
+/content/seg_test/
+/content/seg_train/
+*.zip
+
+# Others
+*.json
